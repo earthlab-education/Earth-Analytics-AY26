@@ -1,2 +1,11 @@
-# Earth-Analytics-AY26
-repo for EDA 2026-2027
+# Earth Data Analytics Foundations Certificate Program at Earth Lab
+Fall 2026 - Summer 2027
+
+Welcome to the Earth Analytics Program! You will use this repository to ask questions about the class and the homework, review each others' work, and join in class discussions.
+
+Contributors:
+| Name | GitHub Username | Portfolio URL | Occupation | Location |
+| ---- | --------------- | ------------- | ---------- | -------- |
+| (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) | | |
+| (Instructor) Nate Quarderer | [nquarder](https://www.github.com/nquarder) | [nquarder.github.io](https://nquarder.github.io/) | Education Director (Earth Lab/ESIIL) | Arvada, CO|
+| (Instructor) Lilly Jones | [lijo8146](https://github.com/lijo8146)  | [lijo8146.github.io](https://lijo8146.github.io) | | |
