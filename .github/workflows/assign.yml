@@ -1,4 +1,4 @@
-name: Assign an issue copy to one person
+name: Assign an issue copy to each person
 
 on: issue_comment
 
