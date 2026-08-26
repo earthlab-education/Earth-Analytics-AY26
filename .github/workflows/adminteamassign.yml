@@ -1,4 +1,4 @@
-name: Assign Issues to all Instructors
+name: Assign issues to all instructors
 
 on: issue_comment
 
