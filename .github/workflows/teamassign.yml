@@ -1,4 +1,4 @@
-name: Assign Issues to all Students
+name: Assign issues to all students
 
 on: issue_comment
 
