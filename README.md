@@ -8,6 +8,7 @@ Contributors:
 | ---- | --------------- | ------------- | ---------- | -------- |
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) | Assistant professor | Boulder, CO |
 | (Instructor) Lilly Jones | [lijo8146](https://github.com/lijo8146)  | [lijo8146.github.io](https://lijo8146.github.io) | Associate Scientist & ESIIL Stars Coordinator | Boulder, CO |
+| Nyika Campbell| [nyikacampbell](https://www.github.com/nyikacampbell) | skipped for now | Masters Student | Boulder, CO |
 | (Student) Adelia Honeywood | [adeliahoneywood](https://github.com/adeliahoneywood) | Student | Brooklyn, NY |
 | (Student) Asa Paonaskar | [asa-pao](https://github.com/asa-pao) | | Graduate Student | Boulder, CO |
 | (Student) Erin Noonan | [eenoonan](https://www.github.com/eenoonan) |  | Student | Boulder, CO |
