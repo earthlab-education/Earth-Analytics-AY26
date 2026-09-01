@@ -19,3 +19,4 @@ Contributors:
 | (Student) David Wilcox | [davidwilcoxbuffs](https://github.com/davidcwilcoxbuffs) | Url | Student | Boulder, CO | 
 |(Student) Greta Binzen | [gretabinzen](https://github.com/gretabinzen) | skipped for now | Conservation Program Coordinator | Durango, CO |
 | (Student) Kai Skowlund | [KaiSkowlund](https://github.com/KaiSkowlund) | |Undergraduate Student | Boulder, CO |
+| (Student) Michael Pitts | [michaelpitts-21](https://github.com/michaelpitts-21) |   | Student | Boulder, CO |
