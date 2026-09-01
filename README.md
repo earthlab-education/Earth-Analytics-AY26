@@ -17,3 +17,4 @@ Contributors:
 | (Student) Saad Hakim | [hakimsaad9387](https://github.com/hakimsaad9387) | - | M.A. Student at CU Boulder Geography Dept. | Boulder, CO |
 | (Student) Hayden Simmons | [Haydensimm13](https://github.com/Haydensimm13)  |  | Student | Boulder, CO |
 | (Student) David Wilcox | [davidwilcoxbuffs](https://github.com/davidcwilcoxbuffs) | Url | Student | Boulder, CO | 
+|(Student) Greta Binzen | [gretabinzen](https://github.com/gretabinzen) | skipped for now | Conservation Coordinator | Durango, CO |
