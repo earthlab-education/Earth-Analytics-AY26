@@ -18,3 +18,4 @@ Contributors:
 | (Student) Hayden Simmons | [Haydensimm13](https://github.com/Haydensimm13)  |  | Student | Boulder, CO |
 | (Student) David Wilcox | [davidwilcoxbuffs](https://github.com/davidcwilcoxbuffs) | Url | Student | Boulder, CO | 
 |(Student) Greta Binzen | [gretabinzen](https://github.com/gretabinzen) | skipped for now | Conservation Program Coordinator | Durango, CO |
+| (Student) Kai Skowlund | [KaiSkowlund](https://github.com/KaiSkowlund) | |Undergraduate Student | Boulder, CO |
