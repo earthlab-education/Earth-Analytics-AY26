@@ -20,4 +20,5 @@ Contributors:
 |(Student) Greta Binzen | [gretabinzen](https://github.com/gretabinzen) | skipped for now | Conservation Program Coordinator | Durango, CO |
 | (Student) Kai Skowlund | [KaiSkowlund](https://github.com/KaiSkowlund) | |Undergraduate Student | Boulder, CO |
 | (Student) Michael Pitts | [michaelpitts-21](https://github.com/michaelpitts-21) |   | Student | Boulder, CO |
+| (Student) Alexa Papanikolaou | [alexapapanikolaou](https://github.com/alexapapanikolaou)) | skipped for now | Venture Development Coordinator | Boulder, CO |
 | (Student) Claire Wadler | [clairewadler](https://github.com/clairewadler) |   | Environmental Protection Specialist | Denver, CO | 
