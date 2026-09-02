@@ -25,3 +25,4 @@ Contributors:
 | (Student) Alexa Papanikolaou | [alexapapanikolaou](https://github.com/alexapapanikolaou)) | skipped for now | Venture Development Coordinator | Boulder, CO |
 | (Student) Claire Wadler | [clairewadler](https://github.com/clairewadler) |   | Environmental Protection Specialist | Denver, CO | 
 | (Student) Lauren Thomas | [lauren-thomas2](https://github.com/lauren-thomas2) |   | M.A. Geography Student, CU Boulder | Boulder, CO | 
+| (Student) Jackson Lilley | [jacksonlilley](https://github.com/jacksonlilley) |   | Graduate Student | Denver, CO | 
