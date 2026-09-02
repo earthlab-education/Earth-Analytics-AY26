@@ -23,3 +23,4 @@ Contributors:
 | (Student) Riley Jones | [rileythejones](https://github.com/rileythejones) | [rileymjones.medium.com](https://rileymjones.medium.com/) | MSDS Student | Longmont, CO |
 | (Student) Alexa Papanikolaou | [alexapapanikolaou](https://github.com/alexapapanikolaou)) | skipped for now | Venture Development Coordinator | Boulder, CO |
 | (Student) Claire Wadler | [clairewadler](https://github.com/clairewadler) |   | Environmental Protection Specialist | Denver, CO | 
+| (Student) Lauren Thomas | [lauren-thomas2](https://github.com/lauren-thomas2) |   | M.A. Geography Student, CU Boulder | Boulder, CO | 
