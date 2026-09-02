@@ -20,3 +20,5 @@ Contributors:
 |(Student) Greta Binzen | [gretabinzen](https://github.com/gretabinzen) | skipped for now | Conservation Program Coordinator | Durango, CO |
 | (Student) Kai Skowlund | [KaiSkowlund](https://github.com/KaiSkowlund) | |Undergraduate Student | Boulder, CO |
 | (Student) Michael Pitts | [michaelpitts-21](https://github.com/michaelpitts-21) |   | Student | Boulder, CO |
+| (Student) Riley Jones | [rileythejones](https://github.com/rileythejones) | [rileymjones.medium.com](https://rileymjones.medium.com/) | MSDS Student | Longmont, CO |
+
